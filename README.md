@@ -1,4 +1,4 @@
 ##Version 0.2
--Added Dashing
--Added Running
--Added Player Stats
+1.Added Dashing!
+2.Added Running
+3.Added Player Stats
