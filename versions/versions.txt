@@ -1,2 +1,2 @@
-Midnight Falls 0.0.2|Midnight Falls Dev Build 0.0.2
-Midnight Falls 0.0.4|Midnight Falls Dev Build 0.0.4
+Midnight Falls 0.0.2|Midnight Falls Dev Build 0.0.2|MidnightFallsDevBuild0.2.exe
+Midnight Falls 0.0.4|Midnight Falls Dev Build 0.0.4|MidnightFallsDevBuild0.4.exe
